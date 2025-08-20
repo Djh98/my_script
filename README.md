@@ -29,6 +29,7 @@ my-scripts/                     # 工程根目录
 │
 └── README.md                   # 项目说明文档（安装、使用示例）
 
+```bash
 git clone https://github.com/Djh98/my_script.git
 cd my-scripts
 pip install -r requirements.txt
