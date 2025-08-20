@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+logs/*.log
+
+# 临时文件
+*.tmp
+temp/
+
+# 测试文件
+test_files/organized/
+
+# 个人配置（如果有敏感信息）
+config/local_settings.yaml
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
